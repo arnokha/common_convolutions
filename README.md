@@ -1,5 +1,5 @@
 # common_convolutions
-Examining 3x3 convolutional filters that are common in pretrained object recognition networks (by first rounding each filter weight to the nearest 0.025).
+Examining 3x3 convolutional filters that are common in pretrained object recognition networks (by first rounding each filter weight to the nearest 0.025).  
 Networks used (from Pytorch): resnet18, alexnet, squeezenet, vgg16, inception
 
 Information about the top 100 filters in filters.txt
