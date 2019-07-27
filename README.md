@@ -1,5 +1,10 @@
 # common_convolutions
-Examining 3x3 convolutional filters that are common in pretrained object recognition networks
+Examining 3x3 convolutional filters that are common in pretrained object recognition networks.
+Networks used (from Pytorch): resnet18, alexnet, squeezenet, vgg16, inception
+
+Information about the actual weights in filters.txt
+
+Note: only input convs included as of now
 
 --------------
 #### Example - plus sign
@@ -13,5 +18,7 @@ Examining 3x3 convolutional filters that are common in pretrained object recogni
 
 -------------
 #### TODO
- 1. Include actual rounded weights of filters, with descriptions if possble. Also include their frequency.
- 2. Frequency by what layers they occur in (bottom 1/3, middle 1/3, top 1/3)
+ 1. Include actual rounded weights of filters, with descriptions if possible. Also include their frequency.
+ 2. Aggregate multiples of the same filters together.
+ 3. Frequency by what layers they occur in (bottom 1/3, middle 1/3, top 1/3)
+ 4. Include output filters
