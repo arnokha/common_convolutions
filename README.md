@@ -7,5 +7,5 @@ Examining 3x3 convolutional filters that are common in pretrained object recogni
 
 -------------
 #### TODO
- 1. Include actual rounded weights of filters, with descriptions if possble.
+ 1. Include actual rounded weights of filters, with descriptions if possble. Also include their frequency.
  2. Frequency by what layers they occur in (bottom 1/3, middle 1/3, top 1/3)
