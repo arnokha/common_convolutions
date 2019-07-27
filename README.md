@@ -3,6 +3,7 @@ Examining 3x3 convolutional filters that are common in pretrained object recogni
 Networks used (from Pytorch): resnet18, alexnet, squeezenet, vgg16, inception
 
 Information about the top 100 filters in filters.txt
+ - Includes weights, counts, and networks where the filter was used.
 
 Note: only input convs included as of now
 
