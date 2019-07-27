@@ -3,7 +3,7 @@ Examining 3x3 convolutional filters that are common in pretrained object recogni
 
 --------------
 #### Example - plus sign
-
+![common convs](https://github.com/arnokha/common_convolutions/blob/master/popular_convs.png)
 
 -------------
 #### TODO
